@@ -14,5 +14,4 @@ public class Student {
         this.sex = sex;
     }
 
-    public Student
 }
