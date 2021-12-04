@@ -7,4 +7,12 @@ public class Student {
 	public Student(){
 		
 	}
+
+    public Student(int age, String name, String sex) {
+        this.age = age;
+        this.name = name;
+        this.sex = sex;
+    }
+
+    public Student
 }
